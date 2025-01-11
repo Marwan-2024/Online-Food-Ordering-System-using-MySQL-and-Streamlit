@@ -6,7 +6,7 @@ import streamlit as st
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="",
+    password="Mero/2020",
     database="ONLINE_FOOD_ORDERING_SYSTEM"
 )
 
